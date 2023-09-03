@@ -63,9 +63,9 @@ Citizen.CreateThread(function()
                         UpdatePaycheck(xPlayer.identifier, salary)
                         UpdateLastPlayedMinute(xPlayer.identifier, currentMinute)
                         TriggerClientEvent('mythic_notify:client:SendAlert', player, { type = 'inform', text = 'You receive your hourly paycheck $' .. salary })
-                        --print("Update Paycheck", xPlayer.identifier, "Sebesar", salary)
+                        print("Update Paycheck", xPlayer.identifier, "Sebesar", salary)
                     else
-                        --print("Player", xPlayer.identifier, "Has", minuteDifference, "Minutes Left Before Next Paycheck")
+                        print("Player", xPlayer.identifier, "Has", minuteDifference, "Minutes Left Before Next Paycheck")
                     end
                 end
             end

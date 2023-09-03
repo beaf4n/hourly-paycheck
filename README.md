@@ -1,6 +1,6 @@
 # hourly-paycheck
 **REQUIRMENT**
-[OxMysql](https://github.com/overextended/oxmysql)
+- [OxMysql](https://github.com/overextended/oxmysql)
 
 **INSTALLATION**
 - Just drag sql to your database

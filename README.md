@@ -8,6 +8,6 @@
 
 **Whats is?**
 
-I make this for player can get 2 salary in fivem server, salary from 7 minutes paycheck (default of ESX) and hourly paycheck, for withdrawn system use your brain
+I make this for player can get 2 salary in fivem server, salary from 7 minutes paycheck (default by framework (ESX, QB, and other)) and hourly paycheck, for withdrawn system use your brain
 
 find some bug? solve by yourself
